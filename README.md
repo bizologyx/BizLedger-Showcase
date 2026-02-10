@@ -26,7 +26,6 @@
 ### 📸 Project Showcase
 > **Note to Clients:** For security and intellectual property reasons, the source code is kept in a private repository. Below are the functional details and workflow.
 
-*(Yahan aap apne software ke 2-3 screenshots ya aik choti screen-recording ka link daal sakte hain)*
 
 ---
 
