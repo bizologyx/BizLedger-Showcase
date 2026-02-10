@@ -30,7 +30,7 @@
 ---
 
 ### 🚀 Business Value
-BizLedger manual bookkeeping ki errors ko khatam karta hai aur business owner ka **60% waqt** bachaata hai, taake wo apne business ko grow karne par focus kar saken.
+BizLedger eliminates manual bookkeeping errors and saves business owners up to 60% of their time, allowing them to focus on growing their business.
 
 ---
 
